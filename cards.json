@@ -1,0 +1,41 @@
+[{
+    "set": 1,
+    "card_number": 6,
+    "name": "Bouclier Psychique",
+    "type": "protection",
+    "cost": 1,
+    "use": 3,
+    "rarity": "C",
+    "effect": {
+      "protection": "inteligence + 6",
+      "damage": null,
+      "bonus": "Si brulure, Résistance + 1",
+      "malus": "Consomme un marqueur feu",
+    },
+    "elem_type": "fire",
+  },
+  {
+    "set": 2,
+    "card_number": 66,
+    "name": "Connaissance des Arènes",
+    "type": "amélioration",
+    "cost": 3,
+    "use": 2,
+    "rarity": "L",
+    "elem": null,
+    "effect": {
+      "1": {
+        "protection": null,
+        "damage": null,
+        "bonus": "Soin : 2 par tours",
+        "malus": null,
+      },
+      "2": {
+        "protection": null,
+        "damage": null,
+        "bonus": "+ 1 point d’action par tour",
+        "malus": null,
+      }
+    }
+  }
+]
